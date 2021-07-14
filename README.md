@@ -1,7 +1,3 @@
-# Supervised Music-Video-Emotion-Dataset (Extended)
-The extended and verified music video emotion analysis dataset for data driven algorithm. 
-
-
 # Dataset and pre-trained weight
 The dataset and network pre-trained weight are made publicly available now.
 1. Dataset: https://zenodo.org/record/4542796#.YCxqhWgzaUk  
