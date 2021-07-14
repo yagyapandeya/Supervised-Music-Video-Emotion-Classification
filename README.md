@@ -6,5 +6,5 @@ The dataset and network pre-trained weight are made publicly available now.
 Note: The trained code and raw dataset will be updated soon. 
 
 
-#How to cite
+# How to cite it?
 Yagya Raj Pandeya, Bhuwan Bhattarai, and Joonwhoan Lee, "Deep Learning-Based Multimodal Emotion Classification for Music Videos", Sensors (2021) (Under review)
