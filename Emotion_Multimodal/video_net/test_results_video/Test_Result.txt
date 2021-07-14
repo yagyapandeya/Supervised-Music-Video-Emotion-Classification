@@ -1,0 +1,19 @@
+
+Total params: 24,174,918
+Trainable params: 24,170,950
+Non-trainable params: 3,968
+__________________________________________________________________________________________________
+
+Test loss: 1.997392602241598
+Test accuracy: 0.5233333110809326
+most likely genres are: [('Relaxation', 0.22), ('Excited', 0.18), ('Sad', 0.17), ('Fear', 0.15), ('Tension', 0.15), ('Neutral', 0.13)]
+[[32  6  2  5  0  5]
+ [ 8 22  2  3  4 11]
+ [ 4  6 20  6  9  5]
+ [ 6  0  2 37  3  2]
+ [ 2  2  4 11 28  3]
+ [ 2 10  9  3  8 18]]
+Classifier result save in disk
+Ploted ROC for multi-class
+Softmax Classifier ROC AUC score= 0.837
+Softmax Classifier Test Set F1-score =  0.53
